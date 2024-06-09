@@ -2,7 +2,6 @@
 int main()
 {
     Parking p (5, 10);
-
     Pojazd* s1 = new Samochod;
     Pojazd* s2 = new Samochod;
     Pojazd* b1 = new Bus;
