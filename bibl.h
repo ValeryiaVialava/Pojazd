@@ -26,9 +26,7 @@ public:
     string getType () const override{
         return "Samochod";
     }
-    ~Samochod(){
-//        cout << "wyjechal "<< getType() << endl;
-    }
+    ~Samochod(){}
 };
 
 class Bus : public Pojazd {
@@ -40,9 +38,7 @@ public:
     string getType () const override{
         return "Bus";
     }
-    ~Bus (){
-//            cout << "wyjechal "<< getType() << endl;
-        }
+    ~Bus (){}
 };
 
 class Motocykl : public Pojazd {
@@ -54,9 +50,7 @@ public:
     string getType () const override{
         return "Motocykl";
     }
-    ~Motocykl (){
-//        cout << "wyjechal "<< getType() << endl;
-    }
+    ~Motocykl (){}
 };
 
 class Parking {
