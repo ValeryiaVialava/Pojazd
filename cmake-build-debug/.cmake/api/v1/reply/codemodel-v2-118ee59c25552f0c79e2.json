@@ -1,0 +1,60 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"jsonFile" : "directory-.-Debug-f5ebdc15457944623624.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.27"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "Pojazd",
+					"targetIndexes" : 
+					[
+						0
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "Pojazd::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-Pojazd-Debug-09cad2373801297a110c.json",
+					"name" : "Pojazd",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "/Users/valeryiavialava/Desktop/C++/\u041d\u0423 \u0422\u0418\u041f \u041a \u041a\u041e\u041b\u041e\u0421\u0423/Pojazd/cmake-build-debug",
+		"source" : "/Users/valeryiavialava/Desktop/C++/\u041d\u0423 \u0422\u0418\u041f \u041a \u041a\u041e\u041b\u041e\u0421\u0423/Pojazd"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 6
+	}
+}
